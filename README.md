@@ -9,4 +9,4 @@ On our real website we will talk about
 5. What are some misconceptions?
 6. The four pillars of DevOps
 
-![image](users/jnall/pictures/IMG_2702.png)
+![picture](Users/jnall/Pictures/IMG_2702.png)
