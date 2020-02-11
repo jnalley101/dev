@@ -1,4 +1,4 @@
-###**What is DevOps?**
+**What is DevOps?**
 
 DevOps is a new movement/idea of creating a more efficient way of conducting business in IT. 
 It is the idea that in order to make sure development and operations area efficient, you must put the two teams together so 
@@ -11,5 +11,4 @@ operations have experienced many benefits as a result. The biggest benefit would
 also being more accurate. Troubleshooting issues that arise while working on an application/product is faster and more accurate when
 you have everyone who has worked on creating it/deploying it working together. Having an IT team that is able to keep up with the always
 changing technological updates is key to having a successful business.
-
-#####**Page was created by Jessica Nalley**
+**Page was created by Jessica Nalley**
